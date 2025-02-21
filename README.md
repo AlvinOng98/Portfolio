@@ -9,7 +9,7 @@ Welcome to my data portfolio! Where I document my projects in the data field.
 
 ***
 
-# SQL
+# [SQL](https://github.com/AlvinOng98/SQL)
 
 | Project Link | Project Description
 |---|---|
