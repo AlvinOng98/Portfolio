@@ -13,5 +13,5 @@ Welcome to my data portfolio! Where I document my projects in the data field.
 
 | Project Link | Project Description
 |---|---|
-| [SQL Murder Mystery] | This repo tracks my queries on my journey to solve a [mysterious murder](https://mystery.knightlab.com/). It showcases my ability to problem-solve and proficiency in SQL queries. |
+| [SQL Murder Mystery](https://github.com/AlvinOng98/SQL/blob/main/SQL%20Murder%20Mystery.md) | This repo tracks my queries on my journey to solve a [mysterious murder](https://mystery.knightlab.com/). It showcases my ability to problem-solve and proficiency in SQL queries. |
 | [Data Cleaning and Exploratory Analysis] | Processing and a simple analysis with a dataset on the layoffs across different industries | 
