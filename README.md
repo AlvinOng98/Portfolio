@@ -21,3 +21,4 @@ Welcome to my data portfolio! Where I document my projects in the data field.
 | Project Link | Project Description
 |---|---|
 | [End-to-End Salary Analysis with SQL, Python and Tableau](https://github.com/AlvinOng98/salary-analysis-project/tree/main) 💵 | This project analyzes salary trends based on age, gender, education, job title, and experience. |
+| [Indeed Job Scraping and Analysis](https://github.com/AlvinOng98/indeed-job-analysis) 🌐 | In this project I learn to use Selenium to scrape Indeed to gather data for further data analysis |
