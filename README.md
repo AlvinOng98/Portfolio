@@ -16,7 +16,7 @@ Welcome to my data portfolio! Where I document my projects in the data field.
 | [Data Cleaning and Exploratory Data Analysis](https://github.com/AlvinOng98/SQL/tree/main/Data%20cleaning%20and%20exploratory%20analysis%20on%20layoffs%20dataset) | Processing and a simple analysis with a dataset on the layoffs across different industries | 
 | [End-to-End Salary Analysis with SQL, Python and Tableau](https://github.com/AlvinOng98/salary-analysis-project/tree/main) | Creating database with Salary dataset, performed data cleaning and exploratory analysis in MySQL  | 
 
-# [Python]
+# [Python](https://github.com/AlvinOng98/Python)
 
 | Project Link | Project Description
 |---|---|
