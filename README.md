@@ -22,3 +22,4 @@ Welcome to my data portfolio! Where I document my projects in the data field.
 |---|---|
 | [End-to-End Salary Analysis with SQL, Python and Tableau](https://github.com/AlvinOng98/salary-analysis-project/tree/main) 💵 | This project analyzes salary trends based on age, gender, education, job title, and experience. |
 | [Indeed Job Scraping and Analysis](https://github.com/AlvinOng98/indeed-job-analysis) 🌐 | In this project I learn to use Selenium to scrape Indeed to gather data for further data analysis |
+| [Premier League Analysis](https://github.com/AlvinOng98/premier-league-analysis/tree/main) ⚽ | An end-to-end data analytics project exploring team and player performance in the English Premier League from 2019–2025 using Python (pandas), SQL (SQLite), and Tableau for insightful visualizations |
